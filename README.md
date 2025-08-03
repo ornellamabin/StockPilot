@@ -1,0 +1,1 @@
+# StockPilot - Gestion de Stock
